@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1678928282 source:/home/denni/Escritorio/codigo_console/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<unistd.h>
+	<string>
+	<vector>
+	<typeinfo>
+
